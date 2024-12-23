@@ -1,7 +1,6 @@
 /**
  * @format
  * 
- * It is inital format given by react-native
  */
 
 import {AppRegistry} from 'react-native';
